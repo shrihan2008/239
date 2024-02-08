@@ -1,0 +1,4 @@
+1Cause for idor attack is that people are able to change profile id on own to stop it use sessions
+2 cause for authoristation issue is that oeioke are manually able to change profile to stop it don't allow profile id to change manually
+3 cause for fishhing is people are clicking on malicious link to stop it make link secure and don't attach any suspicious link on any link
+
